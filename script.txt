@@ -1,2 +1,21 @@
-Hello parents I am amogh dhulap from 9 grade and today i am going to tell u about the 18 national symbols of india by using khan academy javascript editor by drawing them using the lines of code.Parents do u know what are these 18 national symbols??Dont worry i'll show you and tell you.
-The first national symbol is the indian tricolour,   
+hello parents amogh dhulap from 9th grade and today i am going to tell u about the 10 national symbols of india by using khan academy javascript editor by drawing them using the lines of code.Parents do u know what are these 10 national symbols??Dont worry i'll show you and tell you.
+
+The first national symbol is the indian tricolour, The national flag of India, colloquially called the tricolour, is a horizontal rectangular tricolour flag of India saffron, white and India green; with the Ashoka Chakra, a 24-spoke wheel, in navy blue at its centre.[1][2] It was adopted in its present form during a meeting of the Constituent Assembly held on 22 July 1947, and it became the official flag of the Dominion of India on 15 August 1947. The flag was subsequently retained as that of the Republic of India.The flag is based on the Swaraj flag, a flag of the Indian National Congress designed by Pingali Venkayya.By law, the flag is to be made of khadi, a special type of hand-spun cloth or silk, made popular by Mahatma Gandhi.
+
+The second symbol is The song Vande Mataram, composed in Sanskrit by Bankimchandra Chatterji, was a source of inspiration to the people in their struggle for freedom. 
+
+The National Anthem of India is titled "Jana Gana Mana". The song was originally composed in Bengali by India's first Nobel laureate Rabindranath Tagore on December 11, 1911.
+
+the third symbol of india is out of eight races of the species known, the Indian race, the Royal Bengal Tiger, is found throughout the country except in the north-western region and also in the neighbouring countries.
+
+The Indian peacock, Pavo cristatus, the national bird of India, is a colourful, swan-sized bird, with a fan-shaped crest of feathers, a white patch under the eye and a long, slender neck. The male of the species is more colourful than the female, with a glistening blue breast and neck and a spectacular bronze-green tail of around 200 elongated feathers.
+
+The national calendar based on the Saka Era, with Chaitra as its first month and a normal year of 365 days was adopted from 22 March 1957 along with the Gregorian calendar for the following official purposes The national calendar based on the Saka Era, with Chaitra as its first month and a normal year of 365 days was adopted from 22 March 1957 along with the Gregorian calendar for the following official purposes
+
+Lotus is the National Flower of India. It is a sacred flower and occupira Gaertnes a unique position in the art and mythology of ancient India and has been an auspicious symbol of Indian culture since time immemorial.
+
+Indian fig tree, Ficus bengalensis, whose branches root themselves like new trees over a large area. The roots then give rise to more trunks and branches. Because of this characteristic and its longevity, this tree is considered immortal and is an integral part of the myths and legends of India.
+
+The State Emblem is an adaptation of the Lion Capital of Asoka at Sarnath. In the original, there are four lions, mounted back to back, on a circular abacus, which itself rests on a bell-shaped lotus. The frieze of the abacus has sculptures in high relief of an elephant, a galloping horse, a bull and a lion separated by intervening Dharma Chakras.
+
+The symbol of Indian Rupee typifies India's international identity for money transactions and economic strength. The Indian Rupee sign is an allegory of Indian ethos. The symbol is an amalgam of Devanagari "Ra" and the Roman Capital "R" with two parallel horizontal stripes running at the top representing the national flag and also the "equal to" sign. The Indian Rupee sign was adopted by the Government of India on 15th July, 2010.
