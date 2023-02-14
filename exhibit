@@ -270,3 +270,24 @@ draw= function() {
           text("JANA GANA MANA" , 74,315,276,147);
     }
     };
+
+    draw= function() {
+    if (mouseX<200){
+        background(191, 191, 191);
+        noFill();
+        noStroke();
+        fill(255,153,51);
+        rect(0,0,397,139);
+         fill(255,255,255);
+         rect(0,140,397,127);
+         fill(0,255,0);
+          rect(0,269,400,140); 
+          
+          
+          
+          
+          fill(0, 0, 0);
+          textSize(140);
+          text("₹" , 164 , 146,209,147);
+}
+};
