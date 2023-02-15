@@ -181,40 +181,62 @@ draw= function() {
         text("4",78,371,113,140);
     }
 };
+//tree 
 draw= function() {
-    background(62, 174, 230);
-  if(mouseX < 200){
-      noStroke();
-      fill(0,255,0);
-      rect(0,300,400,100);
-      fill(28, 112, 55);
- arc(290,125,121,38,3,243);
- arc(152,125,121,38,3,243);
- arc(94,142,121,38,3,364);
- arc(295,142,121,30,-19,364);
-      fill(82, 68, 43);
-  rect(149,100,100,265,30);
-  fill(153, 106, 75);
-  ellipse(128,221,6,200);
-  ellipse(70,221,6,200);
-   ellipse(84,221,6,200);
-    ellipse(101,221,6,200);
-     ellipse(57,221,6,200);
-      ellipse(116,221,6,200);
-       ellipse(258,213,6,200);
-        ellipse(271,203,6,200);
-         ellipse(282,221,6,200);
-          ellipse(294,221,6,200);
-           ellipse(316,221,6,200);
+      background(62, 174, 230);
+    if(mouseX < 200){
+        noStroke();
+        fill(0,255,0);
+        rect(0,300,400,100);
+        fill(28, 112, 55);
+   arc(290,125,121,38,3,243);
+   arc(152,125,121,38,3,243);
+   arc(94,142,121,38,3,364);
+   arc(295,142,121,30,-19,364);
      
-  fill(53, 161, 53);
-  arc(267,119,181,158,172,400);
-  arc(182,107,179,148,180,360);
-  arc(109,130,155,111,156,345);
-  arc(212,130,155,111,156,345);
-  
-  }
-};
+     fill(64, 47, 29);
+     strokeWeight(3);
+    
+
+beginShape();
+vertex(113,86);
+bezierVertex(283,138,232,295,81,336);
+bezierVertex(154,226,195,213,118,137);
+endShape();
+beginShape();
+vertex(272,80);
+bezierVertex(132,73,355,297,217,333);
+bezierVertex(172,106,169,155,263,60);
+endShape();
+
+
+beginShape();
+vertex(272,80);
+bezierVertex(220,57,86,234,339,340);
+bezierVertex(240,210,244,164,272,80);
+endShape();
+}
+    fill(153, 106, 75);
+    ellipse(128,221,6,200);
+    ellipse(70,221,6,200);
+     ellipse(84,221,6,200);
+      ellipse(101,221,6,200);
+       ellipse(57,221,6,200);
+        ellipse(116,221,6,200);
+         ellipse(258,213,6,200);
+          ellipse(271,203,6,200);
+           ellipse(282,221,6,200);
+            ellipse(294,221,6,200);
+             ellipse(316,221,6,200);
+       
+    fill(53, 161, 53);
+    arc(267,119,181,158,172,400);
+    arc(182,107,179,148,180,360);
+    arc(109,130,155,111,156,345);
+    arc(212,130,155,111,156,345);
+    
+    };
+
 
 draw= function() {
     background(191,191,191);
@@ -291,3 +313,23 @@ draw= function() {
           text("₹" , 164 , 146,209,147);
 }
 };
+
+//lotus flower
+draw= function() {
+     background(191, 191, 191);
+     if (mouseX<200){
+         fill(255, 0, 225);
+beginShape();
+vertex(204,66);
+bezierVertex(294,107,272,204,215,233);
+bezierVertex(146,208,121,109,204,66);
+endShape();
+
+beginShape();
+vertex(143,76);
+bezierVertex(136,190,225,207,180,232);
+bezierVertex(74,227,71,99,143,76);
+endShape();
+
+     }
+ };
